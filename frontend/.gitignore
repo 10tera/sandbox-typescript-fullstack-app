@@ -1,0 +1,20 @@
+# next.js
+.next/
+out/
+
+# production
+build
+
+# testing
+coverage
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# storybook
+*storybook.log
+storybook-static
